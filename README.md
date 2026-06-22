@@ -28,4 +28,4 @@ python chatbot.py
 | bye / exit / quit | End session |
 
 ## Tech
-Python 3 — no external libraries required
+Python 3 no external libraries required
